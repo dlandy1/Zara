@@ -45,5 +45,8 @@
 }
 #butt{
 	text-align: center;
-	margin: 0 500px;
+	margin: 0 230px;
+	display: inline-block;
+	padding: 5px 50px;
+	margin-top: 13px;
 }
