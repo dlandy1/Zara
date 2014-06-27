@@ -1,0 +1,1808 @@
+
+
+<!DOCTYPE html> 
+<!--[if lt IE 7]>      <html id='productId_1825024' class='no-js lt-ie9 lt-ie8 lt-ie7 productPage categoryId product-layout newDesign-2013-1' data-store='es' data-categorykey="NA:V2014R-HOMBRE-ZAPATOS"> <![endif]--> 
+<!--[if IE 7]>         <html id='productId_1825024' class='no-js lt-ie9 lt-ie8 productPage categoryId product-layout newDesign-2013-1' data-store='es' data-categorykey="NA:V2014R-HOMBRE-ZAPATOS"> <![endif]--> 
+<!--[if IE 8]>         <html id='productId_1825024' class='no-js lt-ie9 productPage categoryId product-layout newDesign-2013-1' data-store='es' data-categorykey="NA:V2014R-HOMBRE-ZAPATOS"> <![endif]--> 
+<!--[if gt IE 8]><!--> <html id='productId_1825024' class='no-js productPage  product-layout newDesign-2013-1' lang="en" data-store='us' data-categorykey="NA:V2014R-HOMBRE-ZAPATOS"> <!--<![endif]-->
+	<head>
+			
+		
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta charset=utf-8 />
+
+
+
+<script type="text/javascript">
+var zara=zara||{}
+!function(){function e(e){var o,t,r=e+"=",n=document.cookie.split(";")
+for(o=0;o<n.length;o++){for(t=n[o];" "===t.charAt(0);)t=t.substring(1,t.length)
+if(0===t.indexOf(r))return decodeURIComponent(t.substring(r.length,t.length))}return null}function o(e){var o,t=new Date
+o=e+"; domain="+p,o+="; path=/",t.setTime(t.getTime()+24*s*60*60*1e3),o+="; expires="+t.toGMTString(),document.cookie=d+"="+o}function t(e,o){var t=new XMLHttpRequest
+return t.open(e,o,!0),t}function r(){if(u=g.match(/\w\/(\w{2})\/(\w{2})?\/?/),u&&u.length>2&&(a=u[1],c=u[2],null==typeof a||void 0===a||a.match(/xa|xk/)||(f=!0),null!=typeof c&&void 0!==c&&(v=!0)),l=e(d),l&&(l=l.split(","),l[0]&&l[1]&&(i=l[0].toLowerCase(),"gb"===i&&(i="uk"))),w=e(h),!w&&f&&(!i||i!==a)){m.match(/^http/)||(m=window.location.protocol+m)
+var r,s=t("get",m)
+s&&(s.onload=function(e){if(e.currentTarget.responseText&&(r=JSON.parse(e.currentTarget.responseText),r&&r.country_code))if(n=r.country_code.toLowerCase(),"gb"===n&&(n="uk"),a===n)v&&(l=a.replace("uk","gb")+","+c,o(l))
+else{o("")
+var t,i="",u="",w=""
+t=g.match(/utm_\w+=\w+/g),g=g.replace(/[?|&|#]utm_\w+=\w+/g,"").replace(/\?/g,"&").replace(/&/,"?"),t&&t.length>0&&(w="?"+t.join("&")),window.location.href.match(/\/(\w{2})\/(\w{2})?$/)||(i=(""!==w?"&":"?")+"go="+escape(g.replace(".cn",".com").replace(/\/\w{2}\/(\w{2})?(\/)?/,"/share/"))),""!==document.referrer&&(u="#utm_referrer="+encodeURIComponent(document.referrer)),window.location.href="http://"+window.location.host+w+i+u}},s.send())}}var n,a,c,i,l,u,w,d="WC_ZaraStoreId",h="WC_DevMode",s=30,g=window.location.href,p=window.location.host,m="http://www.zara.com/webapp/wcs/stores/servlet/ContentTargettingJSON",f=!1,v=!1,b=window.location.href.match(/sharedProduct/),C=navigator.userAgent.toLowerCase().match(/(iphone|ipod)/),T=navigator.userAgent.toLowerCase().match(/^(?=.*\bandroid\b)(?=.*\bmobile\b)(?!.*chrome).*$/)
+b&&(T||C)&&zara?zara.geolocationRedirect=r:r()}()
+</script>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+		<title>LEATHER SANDAL WITH STRAPS - Shoes - MAN - SALE | ZARA United States</title>
+	
+		<meta name="description" content="LEATHER SANDAL WITH STRAPS" />
+	
+<meta name="author" content="Zara.com">
+<meta http-equiv="last-modified" content="2014-06-26@14:52:00 +0100" >
+
+
+<meta name="viewport" content="width=1024">
+
+
+
+<script type="text/javascript">	
+	var zara = zara || {}; 
+	zara.globals = {}; 
+	zara.extensions = []; 
+	zara.experiments = []; 
+	zara.dataset = {}; 
+	zara.dataset.tracker = {}; 
+	var cFns = [];
+</script>
+		<script type="text/javascript">
+			var _gaq 	= _gaq || [];
+
+			(function() {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<script>
+			if(zara.dataset.tracker) {
+				zara.dataset.tracker.gatracker = {
+					tracker: {
+						ua 						: 'UA-18083935-1',
+						domainName 				: '.zara.com',
+						campaingCookieTimeOut 	: 604800000,
+						siteSpeedSampleRate 	: 1
+					},
+					view: {
+						uriBasePrefix 			: '/stc/',
+						storeLanguage			: 'en',
+						storeDirectory			: 'ZARA_US'
+					}
+				};
+			}
+		</script>
+		<script type="text/javascript">
+cFns.push(function() {
+			zara.core.startModule('googleAnalytics', zara.dataset.tracker.gatracker);
+		});</script><script type="text/javascript">
+cFns.push(function() {
+		zara.core.startModule('userTrackingModule');
+	});</script>
+<link rel="stylesheet" type="text/css" media="all" href="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/css/application-comp-1403547435488.css" />
+		<script>
+     // {"1403776886000"}
+     function SetupProductPageVideoExp() {
+       var head = document.getElementsByTagName("head")[0];
+        var addScript = function(url){
+          var node=document.createElement('script');
+          node.setAttribute("type","text/javascript");
+          node.setAttribute("src",url);
+          head.appendChild(node);
+        }
+
+        var addCss = function(url){
+          var node=document.createElement('link');
+          node.setAttribute("rel","stylesheet");
+          node.setAttribute("type","text/css");
+          node.setAttribute("media","all");
+          node.setAttribute("href",url);
+          head.appendChild(node);
+        }
+        addScript("http://static.zara.net/static//2014/V/web/exp/product-page-video/dist-4.2.2/video-js/video.dev.js");
+        addScript("http://static.zara.net/static//2014/V/web/exp/product-page-video/script-v.2.0.1.min.js?v20140310");
+        addCss("http://static.zara.net/static//2014/V/web/exp/product-page-video/styles-v.1.0.0.min.css?v20140310");
+    }
+</script>
+
+<script>
+  if (~window.location.href.indexOf('debug')) {
+  SetupProductPageVideoExp();
+  zara.extensions.unshift(function(ctx) {
+    InitExp(ctx, {
+      products:  [
+"0371600400",
+"0371600812",
+"1030690653",
+"1042534712",
+"1255600676",
+"1938600800",
+"1938601800",
+"4433504400",
+"4433612400",
+"5516660405",
+"5854502505",
+"5854508505",
+"5854516707",
+"5854601505",
+"5854660700",
+"5992504401",
+"5992504811",
+"5992600707",
+"5992602800",
+"5992604711",
+"5992661807",
+"5992662800",
+"5992663401",
+"5992664401",
+"5992664704",
+"5992665401",
+"5992667812",
+"6398500711",
+"6398502806",
+"6398503400",
+"6398660401",
+"6398660600",
+"6398661401",
+"6398662711",
+"8574664505",
+"9929600401"
+      ],
+      video: true
+    });
+  });
+  }
+</script>
+<script type="text/javascript">
+cFns.push(function() {
+  var categories = [
+       //429501 //
+       //,563001 //wear to wear- M
+       //,587005 // Soft wear
+       //,367001 //Lookbook
+       //,580009 //Pictures
+       //,593003 //Brothers Sisters
+
+  ];
+  var selector = categories.map(function(i) { return '#menuItemData_' + i + ' > a' }).join(',');
+  $$(selector).each(function(li){
+      var label=new Element('span.menu-label', {text:"NEW"});
+      li.grab(label, 'after');
+  });
+
+
+  if (zara.core.context.globals.countryCode === 'it') {
+     var label=new Element('span.menu-label', {text:"NEW"});
+     $$('#menuItemData_295501 > a').grab(label, 'after');
+  }
+
+
+
+});
+</script>
+<script>
+zara.extensions.unshift(function(ctx){
+   ctx.globals.catalogId = 25055;
+   ctx.globals.lastStaticSyncTimestamp = 1403776886000;
+   $(document.html).data('store', ctx.globals.countryCode);
+   if (!Modernizr.touch && Browser.ie) { $(document.html).addClass('ie'); }
+});
+</script>
+<script src="//cdn.optimizely.com/js/151300895.js"></script>
+
+<style>
+#menuItemData_595002, #menuItemData_595518, #menuItemData_595001, #menuItemData_595519{display:none;}
+#menuItemData_622005, #menuItemData_622001, #menuItemData_622013{display:none;}
+#menuItemData_621501 {display:none;}
+</style>
+
+<script>
+(function() {
+  var staticContentPath = 'http://static.zara.net/static/'.split(':')[1];
+  document.write("<link rel='stylesheet' type='text/css' media='all' href='" + staticContentPath + "/common/css/standard-v.3.65.min.css' />");
+  document.write("<script src='" + staticContentPath + "/common/js/zaralib-p-v.0.25.min.js' type='text/javascript' charset='utf-8'></scr" + "ipt>");
+  document.write("<script src='" + staticContentPath + "/common/js/extensions-v.0.35.min.js' type='text/javascript' charset='utf-8'></scr" + "ipt>");
+}());
+</script>
+<script>
+(function() {
+  var staticContentPath = 'http://static.zara.net/static/'.split(':')[1];
+
+  if (zara.core) {
+    zara.core.context.salesService();
+    return;
+  }
+
+  document.write("<script type='text/javascript' src='" + staticContentPath + "/2014/V/sale/sales-service-v.0.10.min.js'></scr" + "ipt>");
+  //document.write("<script type='text/javascript' src='" + staticContentPath + "/2013/I/sale/messages/sales-service-v.0.0.36.js'></scr" + "ipt>");
+}());
+</script>
+<script src="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/js/lib/modernizr/modernizr-comp-1403547435488.js"></script>
+<!--[if lt IE 9]>
+	
+<script src="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/js/lib/html5shiv/html5-comp-1403547435488.js"></script>	
+	
+<![endif]-->
+
+
+<link rel="shortcut icon" type="image/x-icon" href="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/images/favicon.ico" />
+
+		<link rel="canonical" href="http://www.zara.com/us/en/sale/man/shoes/sandals-and-espadrilles/leather-sandal-with-straps-c541798p1825024.html" />
+	</head>
+	
+	<body class="staticMenu" itemscope itemtype="http://schema.org/WebPage">
+		<!--locker-->
+		<div id="locker"></div>
+		<!--/locker--><!--logo-->
+		<div itemscope itemtype="http://schema.org/Organization">
+	
+
+	<a id="logo" class="fixed gaTrack gaViewEvent" href='http://www.zara.com/us/' title="Go to the Zara homepage" itemprop="url" data-ga-props="{category:'Barra_Superior', action:'Ir_a_la_Home', opt_label:'ZARA'}">
+	 	<img src="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/images/logo_Zara.png" alt="ZARA United States" itemprop="logo"/>
+	</a>
+
+
+		</div>
+	<!--page-->
+		<div id="page-container" class="page gaView gaReplaceLogicGuionBar" 
+			data-ga-props="{logic:'NA:V2014R-HOMBRE-ZAPATOS', productRef:'12956302-V2014', catentryId:'1825024', uriDelim:'Detalles_Producto', eventDefaults:{category:'Ficha_Producto', opt_label:'12956302-V2014'}, socialDefaults:{opt_target:'12956302-V2014'}}">
+		
+		   <header id='header' class="content-main fixed">
+				<!-- User menu section -->
+		<nav class="_menuUser">
+		</nav>
+		
+		
+<script id="user.userMenuTpl" type="text/template">
+	
+	<ul id="header-actions">
+	
+		
+			<li class="_userLang">
+				<a href="#">Languages</a>
+				
+				<ul class="list-languages">
+				
+							<li class="current">
+								<a href="#">English</a>
+						
+					</li>
+				
+							<li>
+								<a id="lang-5"
+									class="changeLangLink gaTrack gaViewEvent" data-langId="-5" 
+									data-langCode="es"
+									data-ga-props="{category:'Menu_Usuario', action:'Cambiar_Idioma', opt_label:'es'}"
+									href=http://www.zara.com/us/es/sale%2Fman%2Fshoes%2Fleather-sandal-with-straps-c452001p1825024.html>
+										Español
+								</a>
+						
+					</li>
+				
+				</ul>
+			</li>
+		
+		
+		{{#isLogged}}
+			<li>
+				<a id="myAccountLink" href="https://www.zara.com/webapp/wcs/stores/servlet/UserAccountView?catalogId=25055&fts=0&myAcctMain=1&categoryId=452001&langId=-1&storeId=11719" class="myAccountLink gaTrack gaViewEvent" data-ga-props="{category:'Barra_Superior', action:'Mi_Cuenta'}">
+					{{username}}
+				</a>
+			</li>
+			<li>
+				<a id="logoutLink" href="https://www.zara.com/webapp/wcs/stores/servlet/Logoff?catalogId=25055&myAcctMain=1&langId=-1&storeId=11719&URL=HomePage" class="logoutLink gaTrack gaViewEvent" data-ga-props="{category:'Barra_Superior', action:'Desconectar'}">
+					Log Out
+				</a>
+			</li>
+			
+		{{/isLogged}}
+		{{^isLogged}}
+			{{^noLogin}}
+			<li>
+				<a id="logonLink" class="logonLink" href="http://www.zara.com/webapp/wcs/stores/servlet/logonform/us/en/zara-nam-S2013-s?myAcctMain=1" data-staticLogon="http://www.zara.com/webapp/wcs/stores/servlet/StaticLogonView?catalogId=25055&langId=-1&storeId=11719">
+					Log In
+				</a>  
+			</li>
+			{{/noLogin}}
+		{{/isLogged}}
+		
+		<li id="miniShopCart" class="miniShopCart">
+			{{#hasOrderItems}}
+				<a href="https://www.zara.com/webapp/wcs/stores/servlet/ShopCartPage?catalogId=25055&orderId=.&langId=-1&storeId=11719" tabindex="0" id="shoppingCartBar" class="shoppingCartBar smallShopBagHead">			 
+					Shopping bag - <span id="miniShopCartItems">{{productsCount}}</span> -
+				</a>
+			{{/hasOrderItems}}	
+			{{^hasOrderItems}}	
+				<span class="shoppingCartBar smallShopBagHead">
+					Shopping bag - <span id="miniShopCartItems">{{productsCount}}</span> -
+				</span>
+			{{/hasOrderItems}}
+			<div id="smallShopBagWrapId" class="smallShopBagWrap">
+				<div class="smallShopBag" id="smallShopBagId">
+					<div class="lt ieSh"> </div>
+					<div class="lb ieSh"> </div>
+					<div class="rb ieSh"> </div>
+					<div class="rt ieSh"></div>
+					<div class="smallShopBagCont">
+						<ul>
+							{{#orderItems}}
+								<li data-orderItem="{{id}}">
+									<span class="imageProd">
+										<img alt="{{description}}" src="{{imgUrl}}">
+									</span>																	
+									<span class="descProd">
+										<a class="gaProductDetailsLink _shopCartProductLnk" data-pRef="{{partnumber}}" data-pColor="{{pColor}}" data-ga-props="{productRef:'{{partnumber}}', catentryId:'{{productId}}', sourceType:'Barra_Superior'}" href="{{productUrl}}">
+											{{description}}
+										</a>
+										<span class="price">
+											{{#multi}}
+												{{quantity}} X
+											{{/multi}}			
+											{{price}}
+										</span>
+									</span>																																																														
+								</li>
+							{{/orderItems}}
+												
+							{{#hiddenItems}}
+								<li data-ga-props="{category:'Barra_Superior', action:'Ver_Cesta'}" class="moreItems gaTrack gaViewEvent">
+									<a title="See all products in the shopping bag" href="https://www.zara.com/webapp/wcs/stores/servlet/ShopCartPage?catalogId=25055&orderId=.&langId=-1&storeId=11719">
+										{{{hiddenItemsMsg}}}
+									</a>
+								</li>								
+							{{/hiddenItems}}
+							
+						</ul>
+						<div class="linkShopBag">
+							<div class="actions">
+								<a data-ga-props="{category:'Barra_Superior', action:'Ver_Cesta'}" href="https://www.zara.com/webapp/wcs/stores/servlet/ShopCartPage?catalogId=25055&orderId=.&langId=-1&storeId=11719" class="viewShopCartBt button butSmallBlack gaTrack gaViewEvent">						
+									<span>
+										See shopping bag
+									</span>
+								</a>
+							</div>
+						</div>
+					
+					</div>
+				</div>
+			</div>
+		</li>
+
+		<li class="_userHelp">
+			<a href='http://www.zara.com/us/en/-c11113.html'>Contact</a>
+		</li>
+
+			{{#hasConnect}}
+			<li class="divider">&nbsp;</li>
+			<li class="chats">
+				<a href="#" data-ga-props="{category:'Barra_Superior', action:'Share', opt_label:'Friends'}"
+				{{^isConnectDisabled}}
+					class="sbopenclose gaTrack gaViewEvent"
+				{{/isConnectDisabled}}
+				{{#isConnectDisabled}}		
+					class="disabled"	
+				{{/isConnectDisabled}}
+			>FRIENDS!</a>
+			</li>	
+			{{/hasConnect}}
+	</ul>
+	
+</script>
+
+<script type="text/javascript">
+cFns.push(function() {					
+			zara.core.startModule('ItxUserMenuModule', {
+				userInfoUrl: 'http://www.zara.com/webapp/wcs/stores/servlet/UserMenuDataJSON?catalogId=25055&langId=-1&storeId=11719',
+				containerSelector: 'nav._menuUser',
+				userMenuTemplateName: 'user.userMenuTpl',
+				catEntryDisplayBaseUrl: 'http://www.zara.com/us/en',
+				noLogin: false
+			});
+		});</script>
+			</header>
+			
+			<!--main-->
+			<section id='main' class="content-main">
+				<section id="product" class="product-card psection_2 ptype_1 pcatentry_1825024 pversion_v1">    			
+					
+						<nav id="products-nav" class="fixed">
+							
+								<a href="#" class="back gaTrack gaViewEvent" data-ga-props="{action:'Navegacion', opt_label:'Volver'}">
+									BACK
+								</a>
+								 
+								
+								<input type="hidden" id="patternProductUrl" name="patternProductUrl" value="http://www.zara.com/us/en/-c452001" />
+								<a class="prev gaTrack gaViewEvent" data-ga-props="{action:'Navegacion', opt_label:'Anterior'}" href="javascript:void(0)">
+									<i class='icon icon-arrow-left-disabled'></i>
+								</a>
+								<a class="next gaTrack gaViewEvent" data-ga-props="{action:'Navegacion', opt_label:'Siguiente'}" href="javascript:void(0)">
+									<i class='icon icon-arrow-right-disabled'></i>
+								</a>
+							
+						</nav>	
+					
+					
+					<div class="left">
+										
+						
+						
+						
+
+<div class="bigImageContainer">
+
+	
+				<div class="media-wrap image-wrap full  imageZoom" data-imgRatio="100" >
+					
+					
+					<a href="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_1_1_1.jpg?timestamp=1395140392000" class="disabled-anchor">
+						<img class="image-big gaViewEvent sbdraggable draggableMain" data-ga-props="{action:'Super_Zoom', opt_label:'Ampliar'}" 
+							data-src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_1_1_1.jpg?timestamp=1395140392000"
+							alt="Image 1 of LEATHER SANDAL WITH STRAPS from Zara "
+							data-id="1825024" data-ref="12956302-V2014" data-color="040" data-category="452001" 
+							data-zoom-index="0"
+							data-zoom-url="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_1_1_1.jpg?timestamp=1395140392000"
+							data-name="LEATHER SANDAL WITH STRAPS"
+							sb-id="12956302040"
+							src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/400/2956302040_1_1_1.jpg?timestamp=1395140392000" 
+							
+								id="bigImage"
+							
+						/>
+					</a>
+					
+					
+					<div id="share" class="share"></div>
+				</div>		
+			
+				<div class="media-wrap image-wrap other  imageZoom" data-imgRatio="100" >
+					
+					
+					<a href="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_1_1.jpg?timestamp=1395140306843" class="disabled-anchor">
+						<img class="image-big gaViewEvent sbdraggable draggableMain" data-ga-props="{action:'Super_Zoom', opt_label:'Ampliar'}" 
+							data-src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_1_1.jpg?timestamp=1395140306843"
+							alt="Image 2 of LEATHER SANDAL WITH STRAPS from Zara "
+							data-id="1825024" data-ref="12956302-V2014" data-color="040" data-category="452001" 
+							data-zoom-index="1"
+							data-zoom-url="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_1_1.jpg?timestamp=1395140306843"
+							data-name="LEATHER SANDAL WITH STRAPS"
+							sb-id="12956302040"
+							src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/400/2956302040_2_1_1.jpg?timestamp=1395140306843" 
+							
+						/>
+					</a>
+					
+					
+					<div id="share" class="share"></div>
+				</div>		
+			
+				<div class="media-wrap image-wrap other  imageZoom" data-imgRatio="100" >
+					
+					
+					<a href="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_2_1.jpg?timestamp=1395140335380" class="disabled-anchor">
+						<img class="image-big gaViewEvent sbdraggable draggableMain" data-ga-props="{action:'Super_Zoom', opt_label:'Ampliar'}" 
+							data-src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_2_1.jpg?timestamp=1395140335380"
+							alt="Image 3 of LEATHER SANDAL WITH STRAPS from Zara "
+							data-id="1825024" data-ref="12956302-V2014" data-color="040" data-category="452001" 
+							data-zoom-index="2"
+							data-zoom-url="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_2_1.jpg?timestamp=1395140335380"
+							data-name="LEATHER SANDAL WITH STRAPS"
+							sb-id="12956302040"
+							src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/400/2956302040_2_2_1.jpg?timestamp=1395140335380" 
+							
+						/>
+					</a>
+					
+					
+					<div id="share" class="share"></div>
+				</div>		
+			
+				<div class="media-wrap image-wrap other  imageZoom" data-imgRatio="100" >
+					
+					
+					<a href="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_3_1.jpg?timestamp=1395140364712" class="disabled-anchor">
+						<img class="image-big gaViewEvent sbdraggable draggableMain" data-ga-props="{action:'Super_Zoom', opt_label:'Ampliar'}" 
+							data-src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_3_1.jpg?timestamp=1395140364712"
+							alt="Image 4 of LEATHER SANDAL WITH STRAPS from Zara "
+							data-id="1825024" data-ref="12956302-V2014" data-color="040" data-category="452001" 
+							data-zoom-index="3"
+							data-zoom-url="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_3_1.jpg?timestamp=1395140364712"
+							data-name="LEATHER SANDAL WITH STRAPS"
+							sb-id="12956302040"
+							src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/400/2956302040_2_3_1.jpg?timestamp=1395140364712" 
+							
+						/>
+					</a>
+					
+					
+					<div id="share" class="share"></div>
+				</div>		
+			
+	
+</div>
+
+
+
+<script id="common.share" type="text/template">
+	
+		<div class="share-actions"> 
+			<span>SHARE</span>
+			<ul class="socialLinks">
+				{{#services}}
+					<li class="icon icon-{{name}} {{#isFriends}}sbopenclose{{/isFriends}}"> 
+						<a href="#" title="{{name}}" class="" data-type="{{name}}"> 
+							<span class="offleft">{{name}}</span> 
+						</a> 
+					</li>
+				{{/services}}
+			</ul> 
+		</div> 
+
+</script>
+<script id="common.techsheet" type="text/template">
+	<div class="techsheet-content">
+		<div class="left">
+			<div class="bigImageContainer">
+				<div class="image-wrap">
+					<img id="bigImage" class="image-big" src="{{imgSrc}}" alt="{{imgAlt}}">
+				</div>
+			</div>
+		</div>
+		<div class="right">
+			<div class="metrics">Measurements in centimetres</div>
+			{{> techsheetTable}}
+		</div>
+	</div>
+</script>
+
+<script id="techsheetTable" type="text/template">
+<table class="techsheet-table">
+	<tbody>
+		{{#metrics}}
+			<tr>
+				<th colspan="2">{{tag}}</th>
+					{{#values}}
+						<td>{{.}}</td>
+					{{/values}}
+				<td></td>
+			</tr>
+		{{/metrics}}
+	</tbody>
+	<thead>
+		<tr>
+			<th class="tag"></th>
+			<th class="nav-btn"><i class="prev icon {{prevBtnClass}}"></i></th>
+			{{#sizeList}}
+				<th>{{.}}</th>
+			{{/sizeList}}
+			<th class="nav-btn"><i class="next icon {{nextBtnClass}}"></i></th>
+		</tr>
+	</thead>
+</table>
+</script><script type="text/javascript">
+cFns.push(function() {
+	zara.core.startModule('ItxCatentryDetailImageModule', {
+		mainEl: '#bigImageContainer',
+		productRef: '12956302-V2014',
+		flowplayerKey: "#$b34773055ffd7a4fb0b",
+		socialMsg: 'SALE - LEATHER SANDAL WITH STRAPS',
+		detailDescription: '',
+		mailUrl: 'http://www.zara.com/webapp/wcs/stores/servlet/ProductDetailSendToFriendAjaxView?catalogId=25055&catentryId=1825024&categoryId=452001&langId=-1&storeId=11719',
+		relatedProducts: {"relProducts":[]},
+		xmedias: {"040":{"xmedias": [{"datatype": "xmedia","set":"2","type":"image","kind":"full","width":"1920","height":"1920","url":"//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_1_1_1.jpg?timestamp=1395140392000"},{"datatype": "xmedia","set":"2","type":"image","kind":"other","width":"1920","height":"1920","url":"//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_1_1.jpg?timestamp=1395140306843"},{"datatype": "xmedia","set":"2","type":"image","kind":"other","width":"1920","height":"1920","url":"//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_2_1.jpg?timestamp=1395140335380"},{"datatype": "xmedia","set":"2","type":"image","kind":"other","width":"1920","height":"1920","url":"//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_3_1.jpg?timestamp=1395140364712"}]}}
+		
+	});
+});</script>
+						
+					</div>
+					
+
+<div class='right' id="productRightMenu-1825024">
+
+	<header>
+		<h1>
+			LEATHER SANDAL WITH STRAPS	
+		</h1>
+	</header>						
+	
+	
+	<p class="reference">
+		Ref. 2956/302
+	</p>	
+	
+								
+	<p class="description"></p>
+						
+	
+	<p class="price">
+		
+				<span class="sale" data-price="49.99  USD">
+					&nbsp;
+				</span><span class="currency"></span>
+				-
+				<span class="line-through" data-price="79.90  USD">
+					&nbsp;
+				</span>	<span class="currency"></span>													
+			
+		
+	</p>
+	
+	
+	<div id='product-info-1825024' class="product-info">
+	
+		
+		
+			<div id='composition-1825024' class="_popup gaTrack gaViewEvent composition" data-ga-props="{action:'Composicion_Y_Cuidados', opt_label:'Mostrar'}">
+				<h2>Composition</h2>
+				<div class="hidden-content">
+					<h2>
+						Composition
+					</h2>
+						
+					
+					<ul>
+						
+						
+								<div class="section">
+									<p class="titleSection">Upper</p>
+									<p>
+										100% COW LEATHER<br />
+										
+									</p>
+								</div>
+							
+								<div class="section">
+									<p class="titleSection">Sole</p>
+									<p>
+										100% THERMOPLASTIC RUBBER<br />
+										
+									</p>
+								</div>
+							
+					</ul>
+					
+						<h2>
+							<p class="mod title">Care</p>
+						</h2>
+						<ul class="list-cares">
+							
+								<li class="clickToolTip">
+									<i class="icon icon-cares-51"></i>
+									<span class="note">DO NOT SUBMERGE IN WATER</span>	
+								</li>
+							
+								<li class="clickToolTip">
+									<i class="icon icon-cares-52"></i>
+									<span class="note">LEATHER/ PATENT LEATHER/ ANTIC LEATHER - Wipe with a dry cotton cloth</span>	
+								</li>
+							
+								<li class="clickToolTip">
+									<i class="icon icon-cares-53"></i>
+									<span class="note">SUEDE/ NOBUCK LEATHER - Clean with a soft brush or a hard sponge</span>	
+								</li>
+							
+								<li class="clickToolTip">
+									<i class="icon icon-cares-54"></i>
+									<span class="note">LEATHER - Uncolored waxes or creams can be used </span>	
+								</li>
+							
+								<li class="clickToolTip">
+									<i class="icon icon-cares-55"></i>
+									<span class="note">SUEDE/ NOBUCK LEATHER - Can be protected with treatment sprays or anti-dust sprays</span>	
+								</li>
+							
+						</ul>
+					
+				</div>											
+			</div> 
+			<div id='delivery-1825024' class="_popup  gaTrack gaViewEvent delivery" data-ga-props="{action:'Envio', opt_label:'Mostrar'}">
+				<h2>Shipping</h2>
+				<div class="hidden-content">					
+					<!-- Start - JSP File Name:  ItxProductMarketingSpot.jsp --><!-- Please - Do not remove this comment.  --><p class="mod title">Shipping</p>
+<div class="section">
+	<p class="titleSection">Pick-up in store <span class="priceSending">free</span></p>
+	<p>In the store of your choice in 3-5 working days</p>
+</div>	
+<div class="section">
+	<p class="titleSection">Standard <span class="priceSending">free</span></p>
+	<p>In 2-4 working days * </p>
+
+</div>
+<div class="section">
+	<p class="titleSection">Express <span class="priceSending">9.95 USD</span></p>
+	<p>In 24-48 hours (working days) *</p>
+
+</div>
+<div class="section">
+<p class="footNote">* Except remote areas</p>
+</div><!-- End - JSP File Name:  ItxProductMarketingSpot.jsp -->
+				</div>											
+			</div>
+			
+			
+			<div id='returns-1825024' class="_popup  gaTrack gaViewEvent returns" data-ga-props="{action:'Devolucion', opt_label:'Mostrar'}">
+				<h2>
+					Return
+				</h2>
+				<div class="hidden-content">
+					<!-- Start - JSP File Name:  ItxProductMarketingSpot.jsp --><!-- Please - Do not remove this comment.  --><p class="mod title">Return</p>	
+<div class="section"><p>You have one month from the shipping confirmation email.</p></div>
+<div class="section">
+	<p class="titleSection">RETURNS IN STORE <span class="priceSending">FREE</span></p>
+	<p>You can return items to any Zara store in the country where the purchase was made.</p>
+</div>
+<div class="section">
+	<p class="titleSection">DROP OFF RETURN <span class="priceSending">FREE</span></p>
+	<p>You can leave your package at our courier’s nearest drop off location.</p>
+</div>
+<div class="section">
+	<p class="titleSection">HOME RETURN  <span class="priceSending">FREE</span></p>
+	<p>You may request a pick-up from your home. </p>
+</div>																																						
+<div class="section">											
+	<p>More information on <a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=6&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Producto', action:'Guia_Compra_Cambios'}" >exchanges</a> and <a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=5&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Producto', action:'Guia_Compra_Devoluciones'}" >refunds</a> policy.</p>									
+</div>																
+<!-- End - JSP File Name:  ItxProductMarketingSpot.jsp -->	
+				</div>					
+			</div>			
+		
+	</div> 
+	<form method="post" 
+		  class="itemAddId ignoreValidation" 
+		  id="itemAddId-1825024" 
+		  name="itemAdd" 
+		  action="http://www.zara.com/webapp/wcs/stores/servlet/AjaxOrderChangeServiceItemAdd?catalogId=25055&amp;categoryId=salesCategoryId&amp;langId=-1&amp;storeId=11719">
+		  
+	
+		
+				<input type="hidden" id="f_itemId" class="f_itemId" name="catEntryId" value="1825187" />	
+			
+		
+		<input type="hidden" name="quantity" value="1" />										
+		<input type="hidden" name="orderId" value="." />
+		<input type="hidden" name="outOrderName" value="orderId" />
+		<input type="hidden" name="calculateOrder" value="1" />
+		<input type="hidden" name="currentCategoryId" value="452001" />
+		<input type="hidden" name="sizeMessage" id="sizeMessage" value="SELECT SIZE" />
+	
+		
+		<input type="hidden" name="langId" value="-1"/>
+		<input type="hidden" name="storeId" value="11719"/>
+		
+		<h2  class="seoInfo">1. Choose a colour</h2>
+	
+		
+			<div id='colors-1825024' class="colors">
+				
+					<label 
+					    class="colorEl auxImageLi selected" 
+					    data-colorCode="040">
+						<div class="imgCont" title="Black" >
+							<img src="//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/135/2956302040_3_1_1.jpg?timestamp=1395140421561" 
+							class="checked"/>
+								
+							
+							<span><i class="icon icon-arrow-down-color"></i>Black</span>
+							
+							
+						</div>
+					</label>	
+				
+			</div>
+		
+		
+		<h2 class="seoInfo">2. Choose a size</h2>
+		
+				<div class="size-btn" id="size-btn">
+					<span class="selected-size">SELECT SIZE </span>
+					<div class="size-select">
+						<table>
+							
+							            		<tr class="product-size disabled" id="selecsize_40" data-catentryid="1825187">
+							        		
+									<td class="size-name">																			   	   				   		
+				   	   				   		7
+									</td>																								
+									<td class="suscribe">
+										
+									</td>
+								</tr>
+							
+							            <tr class="product-size gaTrack gaViewEvent" id="selecsize_41" 
+							            	data-catentryid="1825190" data-ga-props="{action:'Escoger_Talla'}" data-sizeCode="41">
+							        
+									<td class="size-name">																			   	   				   		
+				   	   				   		8
+									</td>																								
+									<td class="suscribe">
+										
+									</td>
+								</tr>
+							
+							            <tr class="product-size gaTrack gaViewEvent" id="selecsize_42" 
+							            	data-catentryid="1825193" data-ga-props="{action:'Escoger_Talla'}" data-sizeCode="42">
+							        
+									<td class="size-name">																			   	   				   		
+				   	   				   		9
+									</td>																								
+									<td class="suscribe">
+										
+									</td>
+								</tr>
+							
+							            <tr class="product-size gaTrack gaViewEvent" id="selecsize_43" 
+							            	data-catentryid="1825196" data-ga-props="{action:'Escoger_Talla'}" data-sizeCode="43">
+							        
+									<td class="size-name">																			   	   				   		
+				   	   				   		10
+									</td>																								
+									<td class="suscribe">
+										
+									</td>
+								</tr>
+							
+							            <tr class="product-size gaTrack gaViewEvent" id="selecsize_44" 
+							            	data-catentryid="1825197" data-ga-props="{action:'Escoger_Talla'}" data-sizeCode="44">
+							        
+									<td class="size-name">																			   	   				   		
+				   	   				   		11
+									</td>																								
+									<td class="suscribe">
+										
+									</td>
+								</tr>
+							
+							            <tr class="product-size gaTrack gaViewEvent" id="selecsize_45" 
+							            	data-catentryid="1825198" data-ga-props="{action:'Escoger_Talla'}" data-sizeCode="45">
+							        
+									<td class="size-name">																			   	   				   		
+				   	   				   		12
+									</td>																								
+									<td class="suscribe">
+										
+									</td>
+								</tr>
+							
+						</table>
+						
+						<div class="size-sep"></div>
+						
+						<button class="size-guide gaViewEvent gaTrack" 
+								data-href="http://www.zara.com/webapp/wcs/stores/servlet/ProductGuideSizeAjaxView?catalogId=25055&amp;categoryId=452001&amp;langId=-1&amp;productId=1825024&amp;storeId=11719"
+								data-ga-props="{action:'Guia_de_tallas'}">Size guide</button>
+					</div>
+					
+				</div>
+			
+	
+			<h2 class="seoInfo"><label for='size'>3. Put it in your basket</label></h2>
+			<div id="cart-actions-1825024" class="cart-actions">
+				
+					<button id="addItemToBasketBt-1825024" type="button" value="Add to cart" class="button butBlack butAddCart gaViewEvent" data-ga-props="{action:'Anadir_a_la_Cesta'}"><span>Add to basket</span></button>
+					<a id="buyButton-1825024" href="https://www.zara.com/webapp/wcs/stores/servlet/ShopCartPage?catalogId=25055&amp;orderId=.&amp;langId=-1&amp;storeId=11719" class="button process-order-btn gaTrack gaViewEvent buyButton" data-ga-props="{action:'Tramitar_Pedido'}"><span>Process order</span></a>								
+				
+			</div>
+		
+	</form>
+
+			<div id="message" class="line boxPromoWrap" >
+				<!-- Start - JSP File Name:  ItxProductMarketingSpot.jsp --><!-- Please - Do not remove this comment.  --><div id="banner" class="category-content"> 	 
+	<h3>FREE SHIPPING AND FREE RETURNS</h3> 
+	<p>On all standard orders</p>  
+</div><!-- End - JSP File Name:  ItxProductMarketingSpot.jsp -->
+			</div>	
+			
+			<div id="clickToCall">
+				
+			</div>
+		
+	
+</div>
+	<script id="product.sizeSelectTplV2" type="text/template">
+		<tr id="selectSize_{{sizeId}}" class="product-size {{availClass}} {{subscribeClass}} gaTrack gaViewEvent" data-catentryid="{{catentryId}}" data-ga-props="{action:'Escoger_Talla'}">
+			<td class="size-name">
+		   		{{sizeDesc}}
+			</td>																								
+			<td class="suscribe">
+				{{#showBackSoonIcon}}
+					<span class="icon icon-backsoon" data-stockStatus="{{availClass}}"></span>
+				{{/showBackSoonIcon}}
+			</td>
+		</tr>
+	</script>
+	
+	<script id="product.leyendBackSoonTpl" type="text/template">
+		<div class="leyend-back-soon">
+			<span class="icon icon-leyend-backsoon"></span><span class="back-soon-msg">{{subscribeLabel}}</span>
+		</div>
+	</script>
+	<script type="text/javascript">
+cFns.push(function() {	
+		zara.core.startModule('ItxProductDetailSelectionModule', {
+			mainEl: '#productRightMenu-1825024',
+			execMode: "regular",
+			productId: "1825024",
+			currentCategoryId: '452001',	
+			productName: "LEATHER SANDAL WITH STRAPS",
+			productRef: "12956302-V2014",
+			productType: "1",
+			stockoutSubscriptionServiceUrl: "https://integration.zara.com/CISWS/resources/stockOutSubscription",
+			productData: {"colors":[{"sizes":[{"currentPrice":"49.99","oldPrice":"79.9","catentryId":"1825187","availability":"OutOfStock","id":"40","description":"7"},{"currentPrice":"49.99","oldPrice":"79.9","catentryId":"1825190","availability":"InStock","id":"41","description":"8"},{"currentPrice":"49.99","oldPrice":"79.9","catentryId":"1825193","availability":"InStock","id":"42","description":"9"},{"currentPrice":"49.99","oldPrice":"79.9","catentryId":"1825196","availability":"InStock","id":"43","description":"10"},{"currentPrice":"49.99","oldPrice":"79.9","catentryId":"1825197","availability":"InStock","id":"44","description":"11"},{"currentPrice":"49.99","oldPrice":"79.9","catentryId":"1825198","availability":"InStock","id":"45","description":"12"}],"pColorImgNames":["2956302040_1_1","2956302040_2_1","2956302040_2_2","2956302040_2_3"],"code":"040","pColorImgBaseUrl":"/2014/V/1/2/p/2956/302/040/2/2/{imageName}_{sizeCode}.jpg?timestamp=1395140392000","colorImgUrl":"http://static.zara.net/photos//2014/V/1/2/p/2956/302/040/2//w/135/2956302040_3_1.jpg?timestamp=1395140421561"}],"productOldPrice":"79.9","tags":"[Lookbook]","productId":"1825024","productCurrentPrice":"49.99"},
+			sizeSelectTplId: "product.sizeSelectTplV2",
+			leyendBackSoonTplId: "product.leyendBackSoonTpl",
+			xmedias: {"040":{"xmedias": [{"datatype": "xmedia","set":"2","type":"image","kind":"full","width":"1920","height":"1920","url":"//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_1_1_1.jpg?timestamp=1395140392000"},{"datatype": "xmedia","set":"2","type":"image","kind":"other","width":"1920","height":"1920","url":"//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_1_1.jpg?timestamp=1395140306843"},{"datatype": "xmedia","set":"2","type":"image","kind":"other","width":"1920","height":"1920","url":"//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_2_1.jpg?timestamp=1395140335380"},{"datatype": "xmedia","set":"2","type":"image","kind":"other","width":"1920","height":"1920","url":"//static.zara.net/photos//2014/V/1/2/p/2956/302/040/2/w/1920/2956302040_2_3_1.jpg?timestamp=1395140364712"}]}},
+			
+			messages: {
+				sizeLabel: "SELECT SIZE",
+				soldOut: "Out of stock",
+				addingProductsMsg: "Adding product",
+				noSelectedColorTitle: "Notice",
+				noSelectedColorMsg: "You must select a size.",
+				outOfStockTitle: "Notice",
+				outOfStockMsg: "We are sorry, but one of the articles selected in your order is out of stock.",
+				backSoonLabel: "Email me when available"
+			}
+		});	
+	});</script>	
+					
+				</section>	
+			</section>
+			<!--foot-->
+			<footer id="footer" class="content-main">
+				
+<nav id='utilities' class='line-up'>
+	<!-- Please - Do not remove this comment.  --><ul class="listH">
+  <li>
+    <p>Buying guide</p>
+    <ul class="submenuUtilities">
+      <li><a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=1&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Pie_Pagina', action:'Guia_Compra_Como_Comprar'}" >How to buy</a></li>
+      <li><a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=2&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Pie_Pagina', action:'Guia_Compra_Informacion_General'}" >General information</a></li>
+      <li><a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=3&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Pie_Pagina', action:'Guia_Compra_Pago'}" >Payment</a></li>
+      <li><a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=4&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Pie_Pagina', action:'Guia_Compra_Envio'}" >Shipping</a></li>
+      <li><a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=5&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Pie_Pagina', action:'Guia_Compra_Devoluciones'}" >Returns</a></li>
+      <li><a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=6&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Pie_Pagina', action:'Guia_Compra_Cambios'}" >Exchanges</a></li>
+      <li><a href="http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&amp;fts=8&amp;langId=-1&amp;storeId=11719"  class=" gaTag gaEvent myShopGuideLinkClass"  gaProps="{events:'click', section:'Pie_Pagina', action:'Guia_Compra_Tarjeta_Regalo'}" >Gift Card</a></li>
+      <li><a class=" gaTag gaEvent linkToLogonLink staticLogonLink" href="http://www.zara.com/webapp/wcs/stores/servlet/staticlogonform/us/en/zara-nam-S2013-s" gaProps="{events:'click', section:'Pie_Pagina', action:'Mi_cuenta'}">My account</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Follow us</p>
+    <ul class="submenuUtilities">
+      <li><a href="http://www.zara.com/us/en/newsletter-c11110.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'NewsLetter'}">Newsletter</a></li>
+      <li><a href="http://www.facebook.com/Zara" target="blank" class="gaTag gaVirtualPage gaOutBound gaModal" gaProps="{events:'click',  data:'Facebook'}">Facebook</a></li>
+<li><a href="http://instagram.com/zara_worldwide" target="blank"  class="gaTag gaVirtualPage gaOutBound gaModal" gaProps="{events:'click',  data:'Instagram'}">Instagram</a></li>
+      <li><a href="http://twitter.com/ZARA" target="blank" class="gaTag gaVirtualPage gaOutBound gaModal" gaProps="{events:'click',  data:'Twitter'}">Twitter</a></li>
+      <li><a href="http://pinterest.com/zaraofficial/" target="blank" class="gaTag gaVirtualPage gaOutBound gaModal" gaProps="{events:'click',  data:'Pinterest'}">Pinterest</a></li>
+      <li><a href="http://www.youtube.com/zara" target="blank" class="gaTag gaVirtualPage gaOutBound gaModal" gaProps="{events:'click',  data:'Youtube'}">Youtube</a></li>
+      <li><a href="http://www.zara.com/us/en/apps-c362004.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'Apps'}">APPS</a></li>
+
+    </ul>
+  </li>
+
+  <li>
+    <p>Policies</p>
+    <ul class="submenuUtilities">
+      <li><a href="http://www.zara.com/us/en/company/our-mission-statement-c18001.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'Politica_Medioambiental'}">Environmental policy </a></li>
+      <li><a href="http://www.zara.com/us/en/company/our-mission-statement-c18001.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'Trato_animales'}">Animal welfare</a></li>
+      <li><a href="http://static.zara.net/static//pdfs/US/privacy-policy/privacy-policy-en_US-20131125.pdf"  class=" gaTag gaEvent showLinkInPopUpWindow"  gaProps="{events:'click', section:'Pie_Pagina', action:'Politica_Privacidad'}" >Privacy policy</a></li>
+      <li><a href="http://static.zara.net/static//pdfs/US/terms-and-conditions/terms-and-conditions-en_US-20131125.pdf"  class=" gaTag gaEvent showLinkInPopUpWindow"  gaProps="{events:'click', section:'Pie_Pagina', action:'Condiciones_Compra'}" >Purchase conditions</a></li>
+      <li id="footerGiftCardConditions"><a href="http://static.zara.net/static//pdfs/US/giftcard-conditions/giftcard-conditions-en_US-20131122.pdf"  class=" gaTag gaEvent showLinkInPopUpWindow"  gaProps="{events:'click', section:'Pie_Pagina', action:'Condiciones_Tarjeta_regalo'}" >Gift Card Conditions</a></li>
+    </ul>
+  </li>
+
+<li>
+    <p>Company</p>
+    <ul class="submenuUtilities">
+      <li><a href="http://www.zara.com/us/en/company-c11112.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'Quienes_somos'}">About us </a></li>
+      <li><a href="http://www.zara.com/us/en/company/offices-c18002.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'Oficinas'}">Offices</a></li>
+      <li><a href="http://www.zara.com/us/en/stores-c11108.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'Tiendas'}">Stores</a></li>
+      <li><a href="http://www.zara.com/us/en/company/work-with-us-c18003.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'Trabaja_con_nosotros'}">Work with us</a></li>
+      <li><a href="http://www.zara.com/us/en/contact-us-c11113.html" class=" gaTag gaEvent"  gaProps="{events:'click', section:'Pie_Pagina', action:'Contacto'}">Contact</a></li> 
+    </ul>
+  </li>
+</ul>
+
+</nav>
+
+
+<div class='line-up'>
+	<nav id='countries'>
+		<ul>
+			<li>
+				
+						<span>
+							United States
+						</span>	
+					
+			</li>
+			
+			
+			
+		</ul>
+	</nav>
+
+</div>
+<script type="text/javascript">
+cFns.push(function() {
+	zara.core.startModule('ItxFooterModule');
+});</script><!--/foot--><!-- END - FOOTER --><nav id='languages'>
+	<ul>
+		
+			<li>
+				
+						<span>English</span>
+					
+			</li>
+		
+			<li>
+				
+						<a id="lang-5"
+							class="changeLangLink gaTrack gaViewEvent" data-langId="-5" 
+							data-langCode="es"
+							data-ga-props="{category:'Barra_Inferior', action:'Cambiar_Idioma', opt_label:'es'}"									   	
+							title="Español"
+							href=http://www.zara.com/us/es/sale%252Fman%252Fshoes%252Fleather-sandal-with-straps-c452001p1825024.html>
+							Español
+						</a>
+					
+			</li>
+		
+	</ul>
+</nav>
+<div id='copyright' class="quiet">
+	<p>
+		<!-- Please - Do not remove this comment.  -->&copy; 2010 ZARA, all rights reserved
+	</p>
+</div>
+
+	<div class="breadcrumbs" itemprop="breadcrumb">
+		<ul>
+			
+			<li>
+				<a href="http://www.zara.com/">
+					<span>
+						ZARA
+					</span>
+				</a>
+				<span class="breadCrumptSeparator"> > </span>
+			</li>
+			
+				<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://www.zara.com/us/en/sale-c643504.html" itemprop="url">
+						<span itemprop="title">SALE</span>
+					</a>
+					
+						<span class="breadCrumptSeparator"> > </span>
+						
+				</li>
+			
+				<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://www.zara.com/us/en/sale/man-c436020.html" itemprop="url">
+						<span itemprop="title">MAN</span>
+					</a>
+					
+						<span class="breadCrumptSeparator"> > </span>
+						
+				</li>
+			
+				<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://www.zara.com/us/en/sale/man/shoes-c452001.html" itemprop="url">
+						<span itemprop="title">Shoes</span>
+					</a>
+					
+						<span class="breadCrumptSeparator"> > </span>
+						
+				</li>
+			
+				<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="#top" itemprop="url">
+						<span itemprop="title">LEATHER SANDAL WITH STRAPS</span>
+					</a>
+						
+				</li>
+			
+		</ul>
+	</div>
+
+			</footer>	
+					
+										
+		</div>
+							 
+		<div id="container-nav"  class="fixed">
+			<div id="toggleMenu" class="fixed">
+				<a id="toggleMenuLnk" href="#" class="toggleMenu icon icon-open-menu"></a>
+			</div>	
+			<nav id="menu">
+				<!--menu vertical desplegable-->
+
+	<ul id="searchMenu">
+		<li class="mainMenuEntry">MAIN MENU</li>
+	</ul>
+
+	<ul id="mainNavigationMenu">
+		
+              			<li class="current" id="menuItemData_643504" rootId="" rootDesc="">
+              				<a href="http://www.zara.com/us/en/sale-c643504.html" >
+			              		SALE
+			              	</a>
+              		
+	            	<ul class="current">
+	            		
+					
+							
+	            			<li id="menuItemData_437525" class="">
+	            				<a href="http://www.zara.com/us/en/sale/woman-c437525.html">
+				              		WOMAN
+				              	</a>
+	            				 
+	            			</li>
+	            		
+					
+							
+	            			<li id="menuItemData_437642" class="">
+	            				<a href="http://www.zara.com/us/en/sale/trf-c437642.html">
+				              		TRF
+				              	</a>
+	            				 
+	            			</li>
+	            		
+					
+							
+	            			<li id="menuItemData_436020" class="current">
+	            				<a href="http://www.zara.com/us/en/sale/man-c436020.html">
+				              		MAN
+				              	</a>
+	            				
+					           		<ul class="current">
+					            		
+											
+					            			<li id="menuItemData_541712" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/jackets-c541712.html">
+								              		Jackets
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_541718" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/blazers-c541718.html">
+								              		Blazers
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_541723" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/suits-c541723.html">
+								              		Suits
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_437684" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/trousers-c437684.html">
+								              		Trousers
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_541730" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/jeans-c541730.html">
+								              		Jeans
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_541736" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/bermudas-c541736.html">
+								              		Bermudas
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_436197" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/shirts-c436197.html">
+								              		Shirts
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_437683" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/t-shirts-c437683.html">
+								              		T-shirts
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_541775" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/sweatshirts-c541775.html">
+								              		Sweatshirts
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_437685" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/knitwear-c437685.html">
+								              		Knitwear
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_452001" class="current">
+					            				<a href="http://www.zara.com/us/en/sale/man/shoes-c452001.html">
+								              		Shoes
+								              	</a>
+					            				
+									           		<ul class="current">
+									            		
+									            				            		
+									            			<li id="menuItemData_541798" class="">									            			
+										            			<a href="http://www.zara.com/us/en/sale/man/shoes/sandals-and-espadrilles-c541798.html">
+													         		Sandals and Espadrilles
+													            </a>
+													            
+													            
+									            			</li>
+									            		
+									            				            		
+									            			<li id="menuItemData_541792" class="">									            			
+										            			<a href="http://www.zara.com/us/en/sale/man/shoes/moccasins-c541792.html">
+													         		Moccasins
+													            </a>
+													            
+													            
+									            			</li>
+									            		
+									            				            		
+									            			<li id="menuItemData_541793" class="">									            			
+										            			<a href="http://www.zara.com/us/en/sale/man/shoes/shoes-c541793.html">
+													         		Shoes
+													            </a>
+													            
+													            
+									            			</li>
+									            		
+									            				            		
+									            			<li id="menuItemData_541794" class="">									            			
+										            			<a href="http://www.zara.com/us/en/sale/man/shoes/sneakers-c541794.html">
+													         		Sneakers
+													            </a>
+													            
+													            
+									            			</li>
+									            		
+									            				            		
+									            			<li id="menuItemData_541797" class="">									            			
+										            			<a href="http://www.zara.com/us/en/sale/man/shoes/boots-and-ankle-boots-c541797.html">
+													         		Boots and ankle boots
+													            </a>
+													            
+													            
+									            			</li>
+									            		
+									            	</ul> 
+									             
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_455003" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/bags-c455003.html">
+								              		Bags
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_436237" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/accessories-c436237.html">
+								              		Accessories
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_541812" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/swimwear-c541812.html">
+								              		Swimwear
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+											
+					            			<li id="menuItemData_441003" class="">
+					            				<a href="http://www.zara.com/us/en/sale/man/stock-clearance-c441003.html">
+								              		Stock clearance
+								              	</a>
+					            				 
+									             
+					            			</li>
+					            		
+					            	</ul> 
+					             
+	            			</li>
+	            		
+					
+							
+	            			<li id="menuItemData_436012" class="">
+	            				<a href="http://www.zara.com/us/en/sale/kids-c436012.html">
+				              		KIDS
+				              	</a>
+	            				 
+	            			</li>
+	            		
+	            	</ul> 
+	            
+	        </li>
+		
+              			<li><i class="icon icon-line-menu-divider"></i>
+              			
+	        </li>
+		
+              			<li id="menuItemData_436004">
+              				<a href="http://www.zara.com/us/en/collection-aw14-c436004.html" >
+			              		COLLECTION AW14
+			              	</a>
+              		
+	        </li>
+		
+              			<li><i class="icon-empty-divider">&nbsp;</i>
+              		
+	        </li>
+		
+              			<li id="menuItemData_367001">
+              				<a href="http://www.zara.com/us/en/lookbook-c367001.html" >
+			              		LOOKBOOK
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_580009">
+              				<a href="http://www.zara.com/us/en/pictures-c580009.html" >
+			              		PICTURES
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_593003">
+              				<a href="http://www.zara.com/us/en/brothers---sisters-c593003.html" >
+			              		BROTHERS &amp; SISTERS
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_362003">
+              				<a href="http://www.zara.com/us/en/campaign-c362003.html" >
+			              		CAMPAIGN
+			              	</a>
+              		
+	        </li>
+		
+              			<li><i class="icon-empty-divider">&nbsp;</i>
+              		
+	        </li>
+		
+              			<li id="menuItemData_362004">
+              				<a href="http://www.zara.com/us/en/apps-c362004.html" >
+			              		APPS
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_11110">
+              				<a href="http://www.zara.com/us/en/newsletter-c11110.html" >
+			              		Newsletter
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_295501">
+              				<a href="http://www.zara.com/us/en/gift-card-c295501.html" >
+			              		GIFT CARD
+			              	</a>
+              		
+	        </li>
+		
+              			<li><i class="icon-empty-divider">&nbsp;</i>
+              		
+	        </li>
+		
+              			<li id="menuItemData_194501">
+              				<a href="http://www.zara.com/us/en/info-c194501.html" >
+			              		+ INFO
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_11108">
+              				<a href="http://www.zara.com/us/en/stores-c11108.html" >
+			              		Stores
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_11111">
+              				<a href="http://www.zara.com/us/en/press-c11111.html" >
+			              		Press
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_11112">
+              				<a href="http://www.zara.com/us/en/company-c11112.html" >
+			              		Company
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_11113">
+              				<a href="http://www.zara.com/us/en/contact-us-c11113.html" >
+			              		Contact us
+			              	</a>
+              		
+	        </li>
+		
+              			<li id="menuItemData_196001">
+              				<a href="http://www.zara.com/us/en/buying-guide-c196001.html" >
+			              		Buying guide
+			              	</a>
+              		
+	        </li>
+		
+	</ul>
+
+
+	
+	<div class="search">
+
+		
+
+		<form id="innerSearchForm" name="CatalogSearchForm" action="http://www.zara.com/webapp/wcs/stores/servlet/ItxSolrSearchingDataCmd?catalogId=25055&amp;categoryId=452001&amp;langId=-1&amp;storeId=11719" method="get">			
+			<input type="hidden" name="storeId" value="11719" />			
+			<input type="hidden" name="langId" value="-1" />
+			<input type="hidden" class="catalogId" name="catalogId" value="25055" />
+			<input type="hidden" class="warehouseId" name="warehouseId" value="15053" />
+			<input type="hidden" class="searchFilter" name="filter" value="SALE" data-originalValue="SALE"/>
+		                              
+		     
+			
+			<input type="text" size="18" name="searchTerm" id="search" 
+				autocomplete="off"  
+				autocorrect="off"
+				value=""
+				class="textField searchTextField placeholder" 
+				placeholder="Search..." />
+				
+			<input id="WC_searchForm_button_1" type="submit" value="" class="button searchButton"/>
+		</form>
+	</div>
+	
+	<div id="sb-autocompletePanel" class="sb-autocomplete">
+		<div class="resultsWrapper"></div>
+	</div>
+
+	<script type="text/javascript">
+cFns.unshift(function() { 	
+	zara.core.startModule('ItxSideMenuModuleV2', {
+		moreInfoCategoryId: 'menuItemData_194501',
+		buyingGuideCategoryId: 'menuItemData_196001',
+		buyingGuideViewBaseUrl: 'http://www.zara.com/webapp/wcs/stores/servlet/ShopGuideView?catalogId=25055&langId=-1&storeId=11719'
+	});
+});</script> 
+			</nav>
+		</div><script id="common.multiChannelSharePopup" type="text/template">
+	<div class="multiChannelShare-popup-container" >
+		<div class="line multiChannelShareLine">
+			<div class="unit size1of1">						
+				<h2 class="h2">
+					{{question}}
+				</h2>
+			</div>
+		</div>
+	</div>					
+</script>
+		
+<script id="common.multiChannelSharePopupFooter" type="text/template">
+	<div class="actions">
+		<button id="openInWeb" type="submit" class=" button butBlack actionButton fLeft gaTrack gaViewEvent" data-ga-props="{action:'Abrir_producto_en_web', opt_label:'Abrir_producto_en_web'}">
+			<span>{{openInWeb}}</span>
+		</button>
+		<button id="openInApp" type="submit" class="button butBlack actionButton fRight gaTrack gaViewEvent" data-ga-props="{action:'Abrir_producto_en_app', opt_label:'Abrir_producto_en_app'}">
+			<span>{{openInApp}}</span>
+		</button>
+	</div>
+</script>
+<script type="text/javascript">
+cFns.push(function() {
+			zara.core.startModule('ItxCatentryDetailModule', {
+				mainEl: '#product',
+				currentCatentryId: '1825024',
+				originalCatentryId: '1825024',
+				baseProductUrl: 'http://www.zara.com/us/en/-c452001',
+				categoryId: '452001',			
+				catentrySection: '2',
+				catentrySkuRef: '12956302-V2014',
+				urlZaraAppLaunchBase: 'zara:///1/',
+				isOpenZaraAppEnabled: 'false',
+				marketUrls: {
+					iphone: 'https://itunes.apple.com/{countryCode}app/zaraforiphone/id547951480',
+					android: 'https://play.google.com/store/apps/details?id=com.inditex.zara'
+				}
+			});				
+		});</script><script type="text/javascript">
+cFns.push(function() {			
+	zara.core.startModule('ItxCookiesAdvice',{excludedCountries: ['us' ,'cn' ] });
+});</script><script type="text/javascript">
+cFns.push(function() {			
+	zara.core.startModule('ItxIosMetaModule', {deviceList: 'iPod,iPhone'});
+});</script>
+
+
+<script type="text/javascript">
+
+	// Establecemos la variable global que almacena la URL de la pagina que hace de proxy para las llamadas AJAX cross-domain
+	ajaxToolViewUrl = 'https://www.zara.com/webapp/wcs/stores/servlet/AjaxIFrameToolView';
+	var ajaxToolViewSwfUrl = '/wcsstore/ZaraStorefrontAssetStore/swf/easyxdm.swf';
+	
+	
+			// variable que contiene el js de google maps
+			jsHeadGeoMaps = 'http://www.google.com/jsapi?key=ABQIAAAAuLM0t2_kkFjBTv19NCnv4xQ1eARysJDSA6Rsmys1__vV4q3ogRSAPpMJQEtE6PZS8bUt68TqwWpmdA';
+			var secure=false;
+			var user= null;
+			var gmaps_channel = null;
+		
+	// Variable que contiene el directorio desde el raiz para buscar recursos (ej: imagenes, estilos, js,...)	
+	var baseFolder = 'http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/';
+			
+	t1 = new Date();
+</script>
+
+<script type="text/javascript" src="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/js/zaralib-comp-1403547435488.js"></script>
+
+
+
+
+
+<script id="generic.popUp" type="text/template">
+	<div id="{{popupId}}" class="popup">
+		<div class="popup-header">
+			<h1 class="popup-title">{{{title}}}</h1>
+			{{#hasClose}}
+				<div class="close"><i class="icon icon-close"></i></div>
+			{{/hasClose}}
+		</div>
+		<div class="popup-navigation">
+			{{{navigationHtml}}}
+		</div>
+		<div class="popup-content">
+			<div class="content">
+				{{{contentHtml}}}
+			</div>
+		</div>
+		<div class="popup-footer">
+			{{{footerHtml}}}
+		</div>
+		
+	</div>
+</script>
+
+<script id="generic.popUpNavigation" type="text/template">
+	<div class="componentNav hidden">
+		<input type="hidden" value="{{patternProductPopUpUrl}}" name="patternProductPopUpUrl">
+		<div class="prevItem"></div>
+		<div class="nextItem"></div>
+	</div>
+</script>
+
+<script id="popupContentElstockOut.popuUp" type="text/template">
+	<div>
+		<p>{{{msg}}}</p>
+		<form action="#" class="gaTrack gaForm gaSubmit" data-ga-props="{logic:'Suscripcion_Agotados', formName:'Suscripcion_Agotados'}">
+			<input type="text" name="email" class="inputText gaFormField" value="" data-ga-props="{fieldName:'Email'}">
+			<input type="hidden" name="catentryId" value="{{catentryId}}">
+			<input type="hidden" name="categoryId" value="{{categoryId}}">
+			<input type="hidden" name="subscriptionType" value="{{type}}">
+			<input type="hidden" name="channel" value="web">
+			<input type="hidden" name="storeId" value="{{storeId}}">
+			<input type="hidden" name="languageId" value="{{langId}}">
+			<button type="submit">
+				{{acceptBtLabel}}
+			</button>
+		</form>
+	</div>
+</script>
+<script id="popupFooterElstockOut.popuUp" type="text/template">
+	<div class="stockOutFooter">
+		<label>
+			<input type="hidden" value="http://www.zara.com/webapp/wcs/stores/servlet/privacypolicy/us/en/zara-nam-S2013-s" id="privacyPolicyViewURL">
+			<a href="#" class="linkLabel privacyPolicy showPrivacyPolicyPopup">{{msg}}</a>
+		</label>
+	</div>
+</script>
+<script id="backToTopTemplate" type="text/template">
+	<section id="backToTop" >
+		<a class="backToTopLink gaTrack gaViewEvent" data-ga-props="{action:'Category-Navegacion', opt_label:'Top'}">
+			<img src="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/images/top_button.png" alt="TOP" 
+				class="img-top-button gaTrack gaViewEvent" data-ga-props="{category:'Back_to_top', action:'Ir_al_Top', opt_label:'TOP'}"/>
+		</a>
+	</section>
+</script>
+
+<script id="externalContentPopupTemplate" type="text/template">
+	<div id="{{popupId}}" class="popup externalContentPopup">
+		{{#hasClose}}
+			<div class="close"><i class="icon icon-close"></i></div>
+		{{/hasClose}}
+		<iframe src="{{iframeSrc}}" width="{{iframeWidth}}" height="{{iframeHeight}}" frameBorder="0">
+		</iframe>	
+	</div>
+</script>
+
+<script id="common.searchAutocomplete" type="text/template">
+	<div class="resultsWrapper">
+		<div id="sb-ac-results">
+			<ul>
+				{{#topTerms}}
+					<li class="searchResult topSearch">
+						<a href="#" rel="{{title_raw}}">
+							<span class="sb-text">{{{title}}}</span>&nbsp;<span class="sb-numFound">({{numFound}})</span>
+						</a>
+					</li>
+				{{/topTerms}}
+			</ul>
+		</div>
+		<div class="sb-separator">
+			__
+		</div>
+		<div id="sb-ac-facets">
+			<ul>
+				{{#facets}}
+					<li class="searchResult facet {{#isZero}}zero_searchResults{{/isZero}}">
+						<a href="#" class="sb-term-facet">
+							{{value}}
+						</a>
+						<span class="sb-numFound"> ({{count}}) </span>
+					</li>
+				{{/facets}}
+			</ul>
+		</div>
+	</div>
+</script>
+
+
+
+<script type="text/javascript"
+    src="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/js/message/validation-en_US-1403547435488.js"></script>
+<script type="text/javascript"
+    src="http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/js/message/messages-en_US-1403547435488.js"></script>
+
+<script type="text/javascript">
+try {
+	Log.disableLog();
+} catch (e) {}
+
+
+	
+try {
+	zara.globals.userInfoUrl = 'http://www.zara.com/webapp/wcs/stores/servlet/UserMenuDataJSON?catalogId=25055&langId=-1&storeId=11719';
+	zara.globals.userDataSessionTtl = 25; 
+
+	var versionNumber = '1403547435488';
+	var debugLevel = 0; // 0 -> Desactivado; 1 -> Errores; 2 -> Advertencias; 3 -> Mensajes; 4 -> Logs
+	zara.core.init(versionNumber, debugLevel, {
+		globals: {
+			storeId: '11719',
+			countryCode: 'us',
+			langId: '-1',
+			langCode: 'en',
+			catalogId: '25055',
+			mainStoreLangCode: 'en',
+			locale: 'en_US',
+			currencyFormat: "#,##0.00 ¤¤",
+			currencySymbol: "USD",
+			currencyCode: "USD",
+			baseImagesUrl: '//static.zara.net/photos/',
+			productsBaseUrl: 'http://www.zara.com/us/en',
+			sharingMethods: ["pinterest",
+		
+			"facebook",
+		
+			"twitter",
+		
+			"mail"],
+			storeOpenForSale: true,
+			appAssetsBasePath: 'http://static.zara.net/wcsstore/ZaraStorefrontAssetStore/',
+			staticContent: '//static.zara.net/static/',
+			videoContent: '//static.zara.net/video/',
+			userInfoUrl: 'http://www.zara.com/webapp/wcs/stores/servlet/UserMenuDataJSON?catalogId=25055&langId=-1&storeId=11719',
+			userDataSessionTtl: 25, 
+			connectKey: 'LPaa7xyx1J',
+			isConnectEnabled: 'false',
+			isConnectAvailable: 'false',
+			pageSize: parseInt('5'),
+			imageResolutionPoints: [640, 1600],
+			searchBrokerEnabled: true,
+			searchBrokerUrl: '//sbzara.colbenson.com/sb-zara',
+			experimentsEnabled: false, 
+			searchMinLen : '3',
+			maxTopSearchsResults: '4',
+			xmediaFormats: {"formats":[{"set":"2","width":"1920","type":"image","name":"MEGAZOOM","id":"1","description":"Megazoom","extension":"jpg"},{"set":"2","width":"560","type":"image","name":"ZOOM","id":"2","description":"Zoom","extension":"jpg"},{"set":"2","width":"400","type":"image","name":"DETAIL","id":"3","description":"Detail","extension":"jpg"},{"set":"2","width":"200","type":"image","name":"STANDARD","id":"4","description":"Standard","extension":"jpg"},{"set":"2","width":"135","type":"image","name":"THUMB","id":"5","description":"Thumb","extension":"jpg"},{"set":"2","width":"1024","type":"image","name":"MOBILE","id":"6","description":"Mobile","extension":"jpg"},{"set":"2","width":"640","type":"video","name":"MPEG4_STANDARD","id":"7","description":"Video MPEG4 Standard","extension":"mp4"},{"set":"2","width":"700","type":"video","name":"MPEG4_HIGH","id":"8","description":"Video MPEG4 High","extension":"high.mp4"},{"set":"2","width":"352","type":"video","name":"MPEG4_LOW","id":"9","description":"Video MPEG4 Low","extension":"low.mp4"},{"set":"2","width":"700","type":"video","name":"WEBM_HIGH","id":"10","description":"Video WEBM High","extension":"high.webm"},{"set":"2","width":"352","type":"video","name":"WEBM_LOW","id":"11","description":"Video WEBM Low","extension":"low.webm"}]},
+			eulaUrl: 'http://static.zara.net/static//pdfs/US/terms-and-conditions/terms-and-conditions-en_US-20131125.pdf',
+			privacyPolicyUrl: 'http://static.zara.net/static//pdfs/US/privacy-policy/privacy-policy-en_US-20131125.pdf',
+			techsheetDataBaseUrl: '/measures/',
+			guestPurchaseAllowed: true
+		}
+	});	
+} catch (err) {
+	if (window.console) {
+		console.log("Error al inicializar el core JS de la aplicacion: " + err);
+		console.log(err);
+	}
+}
+
+try {		
+	
+	var t2 = new Date();
+	var i = 0;
+
+	for (i = 0; i < cFns.length; i++) {
+		try {
+			cFns[i].run();
+		} catch(e) {
+			zara.core.context.logger.error("Ha sucedido un error con un codigo de la pagina");
+			zara.core.context.logger.error(e); 
+		}
+	}
+	zara.core.context.logger.info("ItxCommonJS# Tiempo en recorrer los cFns: " + (new Date().getTime() - t2.getTime()));
+	
+} finally { 
+	var locker = moo('locker');
+	if (locker) {
+		locker.destroy();
+	}
+}
+
+
+zara.core.context.logger.info("ItxCommonJS# Tiempo de toda la carga y procesamiento inicial de JS (ms): " + (new Date().getTime() - t1.getTime()));
+</script>
+
+
+		
+	</body>
+</html>
+
+<!-- End - JSP File Name:  ItxProductView.jsp -->
