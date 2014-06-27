@@ -28,6 +28,9 @@ body{
 	color: rgba(12, 12, 114, 0.6);
 	padding: 0 5px;
 }
+.cart a:hover{
+	text-decoration: underline;
+}
 .nav{
 	background-image: url("diagonal-noise.png");
 	text-align: center;
@@ -38,6 +41,9 @@ body{
 	color: black;
 	border-right: 1px solid black;
 	padding: 0 7%;
+}
+.nav a:hover{
+	text-decoration: underline;
 }
 #first{
 	padding-left: 0; 
