@@ -37,3 +37,13 @@
 .load a:hover{
 	text-decoration: underline;
 }
+.purch img{
+	width: 75%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+#butt{
+	text-align: center;
+	margin: 0 500px;
+}
