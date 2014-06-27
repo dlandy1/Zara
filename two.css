@@ -5,6 +5,7 @@
 	text-align: center;
 	background-color: rgba(104, 103, 103, .1);
 	padding: 10px;
+	position: relative;
 }
 .sale img{
 	height: 400px;

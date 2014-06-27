@@ -128,3 +128,28 @@ p b{
 	right: 47%;
 	margin-bottom: 10px;
 }
+.size{
+	position: absolute;
+	bottom: 30%;
+	left: 82%;
+}
+.size p{
+	position: relative;
+}
+.bask{
+	padding: 10px;
+	background-color: rgba(92, 154, 221, 0.7);
+	display: block;
+	margin-top: 15px;
+	border-radius: 3px;
+}
+.bask a{
+	font-family: "HelveticaNeue-light";
+	font-size: 14px;
+	text-decoration: none;
+	color: black;
+}
+.bask a:hover{
+	text-decoration: underline;
+}
+
