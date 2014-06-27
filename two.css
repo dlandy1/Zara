@@ -1,0 +1,38 @@
+.sale{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: rgba(104, 103, 103, .1);
+	padding: 10px;
+}
+.sale img{
+	height: 400px;
+}
+.price{
+	height: 420px;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 4px;
+}
+.price p{
+	color: green;
+	position: relative;
+	margin-top: 0;
+}
+.load{
+	background-color: rgba(196, 196, 196, .4);
+	border-radius: 5px;
+	margin: 10px 390px;
+}
+.load p{
+	padding: 6px;
+	position: relative;
+}
+.load a{
+	text-decoration: none;
+}
+.load a:hover{
+	text-decoration: underline;
+}
