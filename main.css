@@ -152,4 +152,6 @@ p b{
 .bask a:hover{
 	text-decoration: underline;
 }
-
+.direct{
+	text-align: center;
+}
